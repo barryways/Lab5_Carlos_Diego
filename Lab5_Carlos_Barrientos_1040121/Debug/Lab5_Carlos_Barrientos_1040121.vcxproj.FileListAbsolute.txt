@@ -1,0 +1,4 @@
+E:\Carlos\source\repos\Programacion Avanzada\Lab5_Carlos_Barrientos_1040121\Debug\Lab5_Carlos_Barrientos_1040121.vcxproj.AssemblyReference.cache
+E:\Carlos\source\repos\Programacion Avanzada\Lab5_Carlos_Barrientos_1040121\Debug\Lab5CarlosBarrientos1040121.Solitario.resources
+E:\Carlos\source\repos\Programacion Avanzada\Lab5_Carlos_Barrientos_1040121\Debug\Lab5_Carlos_Barrientos_1040121.vcxproj.GenerateResource.cache
+E:\Carlos\source\repos\Programacion Avanzada\Lab5_Carlos_Barrientos_1040121\Debug\Lab5_Carlos_Barrientos_1040121.exe
